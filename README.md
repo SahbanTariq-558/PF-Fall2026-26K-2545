@@ -43,6 +43,7 @@ git add.
 gitcommit-m "Updated README file"
 git push origin main
 
+![GitHub Octocat](https://octodex.github.com/images/dinotocat.png)
 
      
    

@@ -1,6 +1,6 @@
 # PF-Fall2026-26K-2545
 Programming Fundamentals Lab Work — Fall 2026
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
 # Muhammad Sahban Tariq 
 ## About Me
 ### My Goals 
@@ -42,6 +42,8 @@ Programming Fundamentals Lab Work — Fall 2026
 git add.
 gitcommit-m "Updated README file"
 git push origin main
-   
+```
+
+   ![Coding workspace](https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600)
    
    

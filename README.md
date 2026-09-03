@@ -11,7 +11,7 @@ Programming Fundamentals Lab Work — Fall 2026
 
 ~~I already know everything about Programming~~
 
->"First, solve the problem.Then write the code."-John Johnson
+> "First, solve the problem.Then write the code."-John Johnson
 
 *Programming Fundamentals
 *Calculas

@@ -21,13 +21,13 @@ Programming Fundamentals Lab Work — Fall 2026
 2. Build better C programs
 3. Master Git and GitHub Workflows 
 
-1. Programming
+   Programming
    - C Programming
    - Variables
    - Loops
    - Functions
 
-2. GitHub
+   GitHub
    - Repositories
    - Commits
   

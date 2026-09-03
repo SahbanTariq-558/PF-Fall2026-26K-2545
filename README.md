@@ -7,14 +7,14 @@ Programming Fundamentals Lab Work — Fall 2026
 
 **I am working hard to improve my Programming skills**\
 *I enjoy learning new concepts and solving problems*\
-***I want to become confident in both Programming and Calculas***\
+***I want to become confident in both Programming and Calculas***
 
 ~~I already know everything about Programming~~
 
 > "First, solve the problem.Then write the code."-John Johnson
 
-*Programming Fundamentals
-*Calculas
+*Programming Fundamentals\
+*Calculas\
 *Functional English
 
 1. Improve my Problem Solving skills
@@ -33,8 +33,8 @@ Programming Fundamentals Lab Work — Fall 2026
   
 -[X]Learn basic C syntax\
 -[X]Create a GitHub Repository\
--[]Master Loops and Functions\ 
--[]Comlete all Programming Assignments\
+-[]Master Loops and Functions\
+-[]Complete all Programming Assignments
 
 `git status`
 

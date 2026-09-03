@@ -5,9 +5,9 @@ Programming Fundamentals Lab Work — Fall 2026
 ## About Me
 ### My Goals 
 
-**I am working hard to improve my Programming skills**
-*I enjoy learning new concepts and solving problems*
-***I want to become confident in both Programming and Calculas***
+**I am working hard to improve my Programming skills**\
+*I enjoy learning new concepts and solving problems*\
+***I want to become confident in both Programming and Calculas***\
 
 ~~I already know everything about Programming~~
 
@@ -31,12 +31,12 @@ Programming Fundamentals Lab Work — Fall 2026
    - Repositories
    - Commits
   
--[X]Learn basic C syntax
--[X]Create a GitHub Repository
--[]Master Loops and Functions 
--[]Comlete all Programming Assignments
+-[X]Learn basic C syntax\
+-[X]Create a GitHub Repository\
+-[]Master Loops and Functions\ 
+-[]Comlete all Programming Assignments\
 
-Use the `git status` command to check the state of your working directory
+`git status`
 
 ```bash
 git add.
